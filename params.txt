@@ -1,0 +1,6 @@
+dbs - DB in stock
+dbd - DB download
+
+filt - allow filtering db
+minim - minimise db
+whole - make full-genome db

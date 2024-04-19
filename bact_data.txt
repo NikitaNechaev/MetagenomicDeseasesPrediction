@@ -1,0 +1,3403 @@
+Species name
+Blastocystis sp. subtype 3
+Blastocystis sp. subtype 1
+Bacteroides cellulosilyticus
+
+
+
+
+Blastocystis sp. subtype 2
+Escherichia coli
+
+
+
+
+
+
+
+
+Blastocystis sp. subtype 4
+
+Bacteroides ovatus
+
+Bacteroides intestinalis
+
+[Clostridium] bolteae
+
+
+
+
+
+
+
+
+Bacteroides fragilis 1
+
+Bacteroides thetaiotaomicron
+
+
+Parabacteroides distasonis
+
+
+
+
+Ruminococcus bicirculans
+
+
+
+Eisenbergiella tayi
+
+
+
+
+Roseburia faecis
+
+
+
+Bacteroides plebeius
+
+
+Roseburia intestinalis
+
+
+
+
+
+Eisenbergiella massiliensis
+
+Bacteroides faecis
+[Clostridium] clostridioforme 1
+
+
+
+
+Bacteroides xylanisolvens
+
+
+Bacteroides finegoldii
+Bacteroides caccae
+
+Hungatella effluvii
+
+
+
+
+Akkermansia muciniphila
+
+
+
+
+
+Paraprevotella clara
+Parabacteroides merdae
+
+Parabacteroides goldsteinii
+
+
+
+[Eubacterium] eligens
+
+
+
+
+Klebsiella pneumoniae
+
+Bacteroides stercoris
+
+
+Alistipes onderdonkii
+
+
+
+Bacteroides fragilis 2
+
+[Faecalibacterium] sp. CAG:74
+
+
+Bacteroides dorei
+
+Bacteroides eggerthii
+
+
+
+
+Bacteroides salyersiae
+
+unclassified Lentisphaeria
+
+
+
+Lachnospiraceae bacterium hRUG904 / Clostridiales bacterium RUG495 / [Clostridium] sp. CAG:127
+
+Bacteroides massiliensis
+
+
+Prevotella copri 1
+
+
+
+
+
+
+Coprococcus eutactus 2
+
+
+
+Bacteroides coprocola
+Hungatella hathewayi 1
+
+
+
+Ruminococcus bromii 2
+
+
+
+
+
+
+Bacteroides uniformis
+
+
+
+[Eubacterium] sp. CAG:115
+
+[Eubacterium] sp. CAG:38
+
+unclassified Lachnoclostridium
+
+
+
+
+
+
+Anaerobutyricum hallii
+
+
+
+
+
+
+
+
+unclassified Muribaculaceae
+Blautia sp. CAG:257
+
+
+
+[Eubacterium] siraeum
+
+
+
+Bacteroides nordii
+
+
+Firmicutes bacterium CAG:65 / [Clostridium] sp. 2789STDY5608883
+
+unclassified Lachnoclostridium
+
+
+
+Roseburia sp. CAG:45 & sp. 2789STDY5608886
+
+
+
+
+[Ruminococcus] gnavus
+
+
+
+
+Barnesiella intestinihominis
+
+Lachnospiraceae bacterium CIM:MAG 844 / Firmicutes bacterium CAG:95
+
+
+
+Bacteroides congonensis
+Odoribacter splanchnicus
+
+
+
+Bacteroides clarus
+unclassified Bacteroidales [Alistipes] sp. CAG:435
+
+
+[Ruminococcus] sp. CAG:17 / Blautia sp. 2789STDY5608880
+
+
+
+
+[Clostridium] sp. AT4
+Prevotella sp. 109 & CAG:255
+[Eubacterium] rectale
+
+
+
+
+
+Bacteroides vulgatus
+
+
+
+
+
+Akkermansia muciniphila 2
+Roseburia hominis
+
+
+Roseburia inulinivorans
+
+
+
+
+Victivallales bacterium CCUG 44730
+
+
+Roseburia sp. CAG:100 / Lachnospiraceae bacterium CIM:MAG 54
+
+Lachnospiraceae bacterium GAM79 / [Clostridium] sp. CAG:91 & sp. 2789STDY5834873
+
+
+Blautia wexlerae
+
+
+
+
+
+
+
+
+
+
+
+unclassified Lachnospiraceae
+
+Prevotella sp. CAG:732
+
+[Clostridium] sp. CAG:7
+
+
+
+
+
+Prevotellamassilia timonensis
+
+unclassified Prevotella
+
+Providencia rettgeri 2
+Parabacteroides johnsonii
+Prevotella sp. RUG457 & sp. RUG782 & sp. CAG:386
+
+unclassified Eisenbergiella
+[Clostridium] symbiosum
+
+
+
+
+Lachnospira pectinoschiza
+
+
+
+
+Butyricimonas sp. Marseille-P3923
+Alistipes finegoldii
+
+
+
+
+
+Alistipes putredinis
+
+Prevotella sp. CAG:604
+
+Sutterella wadsworthensis 1
+[Clostridium] sp. CAG:62
+
+
+unclassified Roseburia
+
+unclassified Ruminococcaceae
+
+
+
+Bacteroides sp. CAG:443
+Paraprevotella xylaniphila
+Parabacteroides gordonii
+Lentisphaeria bacterium UBA1829
+Morganella morganii
+
+
+Bacteroides sp. CAG:875 & sp. 2789STDY5834845
+unclassified Bacteroides
+[Clostridium] innocuum
+
+
+
+Emergencia timonensis
+Ruminococcus sp. CAG:177
+Clostridiales bacterium UBA7273 / Firmicutes bacterium CAG:240
+
+
+Anaerostipes hadrus 1
+
+
+
+
+
+
+
+
+
+
+
+
+Enterobacter hormaechei
+
+[Clostridium] scindens 2
+
+
+Bilophila wadsworthia
+
+
+Faecalimonas umbilicata
+Blautia hydrogenotrophica
+
+Blautia producta 2
+
+
+Bacteroides coprophilus
+Lachnoclostridium phytofermentans 2
+unclassified Lentisphaeria
+Butyricimonas sp. Marseille-P4593
+
+unclassified Bacteroides
+unclassified Acidaminococcaceae
+unclassified Victivallales
+
+Oscillibacter sp. CAG:241_62_21
+unclassified Bacteroides
+Prevotella sp. CAG:520
+
+Candidatus Cibiobacter qucibialis
+
+
+Firmicutes bacterium CAG:24 / [Clostridium] sp. 2789STDY5834869 & 2789STDY5834922
+
+
+
+[Ruminococcus] torques
+
+
+
+
+
+Ruminococcus sp. CAG:353 & sp. 2789STDY5834938
+
+Butyricimonas virosa
+
+
+[Clostridium] sp. CAG:58
+
+
+Candidatus Gastranaerophilales bacterium x14
+
+Phascolarctobacterium faecium
+
+Coprobacillus cateniformis
+Coprococcus sp. 2789STDY5608819 / [Clostridium] sp. CAG:264
+Megamonas funiformis == rupellensis
+[Clostridium] clostridioforme 2
+Prevotella sp. P4-51 & PA-67 & P5-64 & P5-108 & CAG:474
+
+unclassified Prevotella
+Bifidobacterium pseudocatenulatum
+
+Coprobacter fastidiosus
+
+Klebsiella oxytoca
+Blautia massiliensis
+
+
+
+
+
+
+
+
+
+
+Blautia sp. CAG:52 & SG-772 & sp. 2789STDY5834917
+
+
+
+Parabacteroides sp. CAG:409
+[Clostridium] sp. CAG:138
+
+
+
+
+
+
+Parasutterella excrementihominis
+
+Streptococcus sanguinis
+
+
+
+unclassified Ruminococcaceae
+
+Veillonella infantium
+
+
+unclassified Bacteroides
+[Clostridium] methylpentosum
+Butyricimonas synergistica 2
+
+[Ruminococcus] faecis
+
+
+
+
+Erysipelatoclostridium ramosum
+
+
+
+
+
+Fusicatenibacter saccharivorans
+
+
+
+
+
+
+
+Parabacteroides sp. 426-9
+unclassified Parabacteroides
+Klebsiella aerogenes
+[Eubacterium] sp. CAG:252
+
+Victivallis vadensis
+
+[Faecalitalea] sp. UBA637
+
+[Eubacterium] sp. CAG:248
+
+unclassified Blautia
+
+Firmicutes bacterium CAG:227
+
+[Ruminococcus] sp. 2789STDY5608794 & sp. 2789STDY5834890 / Firmicutes bacterium CAG:56
+
+
+
+
+
+
+unclassified Lachnospiraceae
+Bifidobacterium longum
+
+
+
+
+Plesiomonas shigelloides
+Firmicutes bacterium CAG:194
+
+Roseburia sp. CAG:197
+
+Azospirillum sp. CAG:239
+
+Blautia hansenii
+Ruthenibacterium lactatiformans
+
+
+
+
+
+Christensenellaceae bacterium Phil1 & [Clostridium] sp. CAG:226
+
+
+
+
+Klebsiella quasipneumoniae
+
+Lachnospiraceae bacterium TF01-11 / [Clostridium] sp. CAG:122
+Prevotella sp. P4-65 & P4-76 & P5-60 & P5-119 & P5-125 & CAG:592
+
+unclassified Lachnoclostridium
+
+
+Ruminococcus sp. A254.MGS-254 & CAG:254
+
+Coprococcus eutactus 1
+
+Blautia coccoides == Blautia producta
+
+
+
+
+
+unclassified Marvinbryantia
+Firmicutes bacterium CAG:424
+[Acetobacter] sp. 46_36 & CAG:267 / Alphaproteobacteria bacterium UBA7083
+
+
+Culturomica massiliensis
+unclassified Lachnospiraceae
+
+[Clostridium] sp. CAG:299
+Bacteroides togonis
+Erysipelatoclostridium sp1
+
+
+
+
+
+
+
+
+Blautia sp. CAG:237
+
+
+Bacteroides sp. CAG:530
+
+unclassified Butyricimonas
+unclassified Oscillospiraceae
+
+[Clostridium] scindens 1
+
+[Clostridium] sp. 42_12 & CAG:75
+
+
+Desulfovibrio piger
+
+Alistipes shahii
+
+
+
+Megasphaera sp. BL7 & NM10
+
+Coprobacter secundus == Gabonia massiliensis
+
+Muribaculaceae bacterium sp6
+
+Anaerostipes caccae
+
+
+
+Akkermansia sp. KLE1605
+[Acinetobacter] sp. N54.MGS-139 / Proteobacteria bacterium CAG:139
+Negativibacillus massiliensis
+Clostridia bacterium UC5.1-1D10 / [Clostridium] sp. CAG:505 / Firmicutes bacterium CAG:466
+Firmicutes bacterium CAG:124
+
+Butyrivibrio crossotus
+
+
+[Roseburia] sp. CAG:380
+[Ruminococcus] sp. Marseille-P328 & Blautia sp. 2789STDY5608844 & sp. 2789STDY5608844
+
+
+
+
+
+
+
+
+
+
+Enterobacter roggenkampii
+
+unclassified Ruminococcus
+
+Mediterranea massiliensis
+Dialister invisus
+
+
+
+Flavonifractor plautii
+
+
+
+
+
+
+
+
+
+
+
+Alistipes sp. CAG:268
+
+Dialister sp. Marseille-P5638 & CAG:357
+Odoribacter laneus
+Bacteroides ndongoniae
+unclassified Christensenellaceae-Catabacteriaceae
+
+unclassified Bacteroides
+Azospirillum sp. 51_20
+
+Acidaminococcus intestini
+[Clostridium] sp. CAG:354_28_25
+
+[Clostridium] sp. L2-50
+Prevotella copri 2
+
+Alistipes obesi
+
+
+Desulfovibrionaceae bacterium CIM:MAG 900
+
+[Eubacterium] sp. 36_13 & CAG:86 & RUG185
+
+
+
+
+Proteus mirabilis
+
+Prevotella sp. 885
+
+Alistipes inops == Tidjanibacter massiliensis
+
+
+unclassified_Erysipelotrichaceae
+Dorea sp. CAG:317
+
+unclassified Lachnoclostridium
+Catabacter sp. UBA1685 / Clostridia bacterium CIM:MAG 110_1
+
+
+unclassified Bacteroides
+[Eubacterium] ventriosum
+
+
+
+
+
+
+Roseburia sp. CAG:182
+
+unclassified Lachnospiraceae
+
+
+
+Sutterellaceae bacterium 4NBBH2
+
+unclassified Oscillospiraceae
+
+Klebsiella variicola
+
+Anaerotignum lactatifermentans
+[Clostridium] sp. CAG:253
+[Ruminococcus] sp. CAG:60 / Blautia sp. 2789STDY5608836
+
+
+Megasphaera massiliensis
+Tyzzerella nexilis
+
+
+
+[Clostridium] sp. 44_14 & CAG:277
+unclassified Lentisphaeria
+unclassified Ruminococcaceae
+
+
+[Ruminococcus] lactaris
+
+
+unclassified Prevotella
+
+unclassified Ruminiclostridium
+unclassified Bilophila
+unclassified Lachnoclostridium
+unclassified Victivallales
+Bacteroides sp. CAG:462 & sp. Marseille-P3684
+unclassified Prevotella
+
+Firmicutes bacterium CAG:102
+Coprococcus comes
+
+
+
+
+
+
+
+Prevotella lascolaii
+[Bacteroides] sp. CAG:770
+
+Ruminococcus callidus
+
+Bifidobacterium adolescentis
+
+
+
+Parabacteroides sp. SN4
+
+Faecalibacterium prausnitzii 7
+
+Fusobacterium ulcerans
+unclassified Bacteroides
+Blautia sp. N6H1-15
+unclassified Clostridiales 5
+
+unclassified Clostridiales 5
+
+
+
+
+[Eubacterium] sp. CAG:180
+
+
+unclassified Blautia
+[Clostridium] sp. CAG:510
+
+Sellimonas intestinalis == Drancourtella massiliensis
+
+
+Prevotella stercorea
+
+
+Flavonifractor sp. An10
+[Eubacterium] sp. CAG:251 / [Clostridium] sp. A254.MGS-251
+
+
+Erysipelotrichaceae bacterium 3_1_53
+Cloacibacillus porcorum
+Sutterella wadsworthensis 2
+
+Catenibacterium sp. CAG:290
+
+Ruminococcus sp. CAG:330
+
+[Clostridium] sp. CAG:217 / Clostridiales bacterium CIM:MAG 317_1
+
+Ruminococcus sp. 37_24 & sp. 2789STDY5834934
+
+Alistipes ihumii
+
+unclassified Sutterellaceae
+Fusobacterium varium
+Anaeromassilibacillus sp. Marseille-P3876
+unclassified Ruminococcaceae
+
+
+
+
+unclassified Lachnospiraceae
+unclassified Bacteroides
+Butyrivibrio sp. CAG:318
+
+
+Desulfovibrio fairfieldensis
+unclassified Roseburia
+
+
+
+Anaerotruncus sp. AT3
+unclassified Christensenellaceae-Catabacteriaceae
+
+[Eubacterium] ramulus
+
+
+
+
+
+
+unclassified Prevotellaceae
+
+
+Faecalibacterium prausnitzii 1
+
+
+unclassified Clostridiales 2
+unclassified Clostridiales 5
+
+unclassified Bacteroidales [Alistipes] sp. CAG:514
+
+Roseburia sp. CAG:303
+
+
+Firmicutes bacterium CAG:176
+
+
+Dorea longicatena 1
+
+
+
+
+
+[Clostridium] saccharolyticum 2
+
+unclassified Blautia
+
+Barnesiella sp. An22
+unclassified Clostridiales 5
+Firmicutes bacterium CAG:110
+
+
+
+Veillonella parvula
+
+
+
+unclassified Christensenellaceae-Catabacteriaceae
+
+
+Firmicutes bacterium CAG:145
+
+unclassified Parabacteroides
+unclassified Clostridiales 5
+
+Alistipes indistinctus
+
+unclassified Clostridiales 5
+
+unclassified Prevotella
+[Clostridium] sp. CAG:411
+unclassified Ruminococcus
+
+unclassified Clostridiales
+Alistipes sp. cv1
+
+Ruminococcus sp. UNK.MGS-30
+unclassified Alistipes
+[Bacteroides] sp. CAG:545
+
+[Brachyspira] sp. CAG:484
+Clostridium butyricum
+Firmicutes bacterium CAG:534
+Oscillibacter sp. KLE 1728 & KLE 1745 & sp. PEA192 / Oscillospiraceae VE202-24
+
+
+
+
+
+unclassified Lachnospiraceae
+Lactobacillus ruminis
+
+Erysipelotrichaceae bacterium 5_2_54FAA / [Eubacterium] sp. 3_1_31
+unclassified Alistipes
+
+Bacteroides fluxus
+[Eubacterium] sp. 38_16 & CAG:146
+
+
+
+
+Fusobacterium mortiferum
+unclassified Prevotella
+
+[Clostridium] leptum
+
+
+Klebsiella michiganensis 2
+Flavonifractor sp. 2789STDY5834931 / Clostridiales bacterium CCNA10
+[Clostridium] sp. CAG:413
+[Anaerotruncus] sp. CAG:390
+Faecalibacterium prausnitzii 8
+
+
+Lachnoclostridium sp. SNUG30386 / [Clostridium] sp. CAG:43
+
+
+
+Clostridium paraputrificum
+unclassified Catabacter
+
+Bacteroides sp. An19 & An51A & An269 & An279 & CAG:702
+Fournierella massiliensis
+unclassified Bacteroides
+Oscillibacter sp. CAG:241 & CIM:MAG 164_1
+
+Clostridiales bacterium CIM:MAG 424
+
+unclassified Christensenellaceae-Catabacteriaceae
+unclassified Bacteroides
+unclassified Clostridiales 5
+
+
+
+[Clostridium] sp. CAG:169
+
+unclassified Anaerobutyricum
+Mitsuokella jalaludinii
+
+[Clostridium] asparagiforme == lavalense
+
+
+
+
+
+Firmicutes bacterium CAG:170
+
+Clostridium saudiense
+Bacteroides cutis
+Intestinimonas butyriciproducens
+
+
+
+
+unclassified Lachnospiraceae
+unclassified Caecibacter
+Ruminococcus champanellensis
+Aeromonas veronii
+uncultured Desulfovibrio sp. RUG514
+
+Anaeromassilibacillus sp. Marseille-P3371 / Clostridia bacterium UC5.1-1E11
+
+unclassified Roseburia
+unclassified Clostridiales 2
+[Clostridium] sp. 2789STDY5608884
+
+
+
+Gemmiger formicilis
+
+
+Azospirillum sp. 47_25 & CAG:260
+
+[Bacteroides] pectinophilus
+Bacteroides barnesiae
+[Eubacterium] sp. CAG:156
+
+
+Merdimonas faecis
+Streptococcus salivarius
+
+
+
+
+
+
+
+
+
+Alistipes senegalensis
+
+
+unclassified Lachnospiraceae
+
+
+Dialister succinatiphilus
+unclassified Clostridiales 5
+[Ruminococcaceae] bacterium D16 / Clostridiales bacterium Choco116
+
+unclassified Sutterellaceae
+Firmicutes bacterium CAG:882
+
+Faecalibacterium prausnitzii 3
+
+
+Faecalibacterium prausnitzii 4
+
+Bacteroides sp. CAG:1076
+Oscillibacter sp. CAG:155
+Firmicutes bacterium CAG:238
+
+unclassified Ruminococcaceae
+unclassified Parabacteroides
+Brachyspira sp. CAG:700
+
+Adlercreutzia equolifaciens
+
+
+
+
+
+
+
+unclassified Lachnospiraceae
+Clostridia bacterium CIM:MAG 635
+
+
+
+
+Faecalibacterium prausnitzii 5
+
+
+unclassified Ruminococcaceae
+unclassified Clostridiales 1
+unclassified Lachnoclostridium
+Enterococcus faecium
+
+
+unclassified Clostridiales 5
+
+
+
+Ruminococcus sp. CAG:403
+
+unclassified Veillonellaceae
+unclassified Gemmiger
+
+
+Lactobacillus mucosae
+Pyramidobacter piscolens
+Clostridiales bacterium CIM:MAG 131
+unclassified Akkermansia
+[Bacteroides] sp. CAG:144
+
+unclassified Phascolarctobacterium
+Duodenibacillus massiliensis
+
+Coprobacter sp. CIM:MAG 570
+[Bacteroides] sp. CAG:709
+
+unclassified Alistipes
+unclassified Gemmiger
+
+Bifidobacterium bifidum
+unclassified Ruminococcus
+
+unclassified Clostridiales 2
+Romboutsia timonensis
+
+
+
+
+
+
+
+
+
+unclassified Oscillibacter
+unclassified Christensenellaceae-Catabacteriaceae
+
+unclassified Clostridiales 6
+Dialister sp. CAG:486
+
+
+[Eubacterium] sp. CAG:786
+
+Bacteroidales bacterium H5
+Alistipes timonensis
+unclassified Clostridiales 1
+
+[Eubacterium] sp. CAG:274
+unclassified Clostridiales 1
+
+unclassified Lachnospiraceae
+unclassified Ruminococcus
+unclassified Oscillibacter
+
+
+Blautia obeum
+
+
+
+
+
+
+
+
+Actinomyces oris
+
+
+
+Bacteroides sp. UBA7116 & UBA7052
+unclassified Alistipes
+unclassified Roseburia
+
+
+unclassified Roseburia
+
+unclassified Flavonifractor
+
+
+
+
+unclassified Parabacteroides
+unclassified Ruminococcaceae
+unclassified Ruminococcus
+Oribacterium sinus
+Firmicutes bacterium CAG:272
+
+unclassified Lachnospiraceae
+
+unclassified Clostridiales 1
+
+
+
+Clostridiales bacterium UBA4224
+unclassified Ruminococcus
+
+unclassified Clostridiales 5
+
+unclassified Clostridiales 5
+
+unclassified Clostridium
+
+Candidatus Gastranaerophilales sp1
+unclassified Gemmiger
+
+Faecalibacterium prausnitzii 9
+
+
+
+
+Catenibacterium mitsuokai
+
+unclassified Roseburia
+unclassified Bacteroides
+Clostridiales bacterium CIM:MAG 701
+
+unclassified Ruminococcaceae
+
+
+
+[Clostridium] sp. CAG:167
+
+[Eubacterium] ramulus 2
+
+unclassified Opitutae
+unclassified Sutterella
+Firmicutes bacterium CAG:94
+
+
+
+Firmicutes bacterium CAG:41 / [Clostridium] sp. 2789STDY5834935 & sp. 2789STDY5608853
+
+
+
+
+
+
+
+Bifidobacterium scardovii
+unclassified Prevotellaceae
+unclassified Clostridiales 6
+
+
+unclassified Clostridiales Family XIII. Incertae Sedis
+[Clostridium] sp. 2789STDY5834874 & sp. 2789STDY5608885
+
+Dakarella massiliensis
+Prevotella sp. CAG:891
+Muribaculaceae bacterium sp5
+Firmicutes bacterium CAG:83
+[Clostridium] phoceensis
+
+
+
+
+
+
+
+[Eubacterium] sp. Marseille-P5640
+unclassified Lachnospiraceae
+
+Ruminococcus sp. CAG:579
+Mitsuokella multacida
+
+Veillonella sp. CAG:933
+unclassified Faecalibacterium
+
+
+
+unclassified Bacteroides
+Lactococcus lactis subsp. lactis
+
+unclassified Clostridiales 5
+Acidaminococcus massiliensis
+unclassified Blautia
+
+
+unclassified Ruminococcaceae
+
+
+
+unclassified Clostridiales 4
+unclassified Clostridiales 6
+[Eubacterium] sp. CAG:603 & sp. 2789STDY5608818
+
+unclassified Christensenellaceae-Catabacteriaceae
+
+unclassified Prevotellaceae
+unclassified Lachnospiraceae
+Enterococcus faecalis
+Ruminococcus sp. CAG:488
+
+[Clostridium] sp. CAG:590
+
+unclassified_Erysipelotrichaceae
+
+
+Megasphaera elsdenii
+unclassified Bacteroides
+Coraliomargarita sp. CAG:312
+unclassified Clostridiales 4
+
+unclassified Oscillibacter
+Dorea formicigenerans
+
+
+
+
+
+
+
+
+
+unclassified Lachnospiraceae
+unclassified Bacteroidales
+
+Evtepia gabavorus
+
+
+
+[Clostridium] glycyrrhizinilyticum
+
+unclassified Muribaculaceae
+
+[Firmicutes] bacterium CAG:321
+
+
+
+unclassified Clostridiales 5
+
+unclassified Lachnospiraceae
+unclassified Clostridium
+
+unclassified Victivallales
+Bacteroidales bacterium H10
+unclassified Coriobacteriia
+
+Prevotella sp. CAG:924
+Bacteroides gallinarum
+[Ruminococcaceae] bacterium CIM:MAG 1403
+
+
+Anaerotruncus colihominis
+
+unclassified Alistipes
+Mordavella sp. Marseille-P3756
+
+unclassified Muribaculaceae
+unclassified Clostridiales 4
+
+[Clostridium] sp. CAG:307
+
+unclassified Parabacteroides
+[Eubacterium] sp. CAG:581
+
+Dorea longicatena 2
+
+
+
+
+unclassified Muribaculaceae
+unclassified Opitutae
+unclassified Roseburia
+
+Firmicutes bacterium CAG:176_63_11
+
+
+
+Prevotellaceae bacterium CIM:MAG 724
+
+unclassified Clostridiales 5
+Alistipes sp. An31A & Marseille-P5061 & UBA1813
+Phascolarctobacterium succinatutens
+
+unclassified Roseburia
+
+[Clostridium] sp. CAG:448
+unclassified Clostridiales 5
+
+[Clostridiaceae] bacterium CIM:MAG 755 / [Clostridium] sp. CAG:230
+
+
+Alistipes sp. CHKCI003
+Escherichia fergusonii
+Pseudoflavonifractor sp. An184
+
+
+[Clostridium] sp. CAG:245 & CIM:MAG 941
+unclassified Prevotellaceae
+unclassified Lachnospiraceae
+
+unclassified Prevotella
+
+unclassified Lachnospiraceae
+[Eubacterium] sp. CAG:192
+unclassified Oscillospiraceae
+
+unclassified Christensenellaceae-Catabacteriaceae
+
+Anaerostipes hadrus 2
+
+
+[Subdoligranulum] sp. CAG:314 & CIM:MAG 76
+
+unclassified Clostridiales 4
+unclassified Akkermansiaceae
+unclassified Blautia
+unclassified Lachnoclostridium
+unclassified Christensenellaceae-Catabacteriaceae
+
+unclassified Lachnospiraceae
+
+Enorma massiliensis
+unclassified Lachnospiraceae
+
+
+
+
+
+[Fusobacterium] sp. CAG:439
+unclassified Ruminococcaceae
+
+unclassified Clostridiales 5
+
+Firmicutes bacterium CAG:475
+Prevotella sp. CAG:1124
+Anaerotruncus sp. CAG:528
+Bifidobacterium dentium
+
+
+
+unclassified Ruminococcaceae
+Lachnospira sp. 2789STDY5834967 / Clostridiales bacterium KLE1615 & 41_12_two_minus
+
+
+
+
+
+
+
+Eggerthella lenta
+
+
+
+Fusobacterium necrophorum
+[Eubacteriaceae] bacterium CHKCI004 & [Eubacterium] sp. An3
+unclassified Roseburia
+[Clostridium] sp. CAG:1013
+[Clostridium] sp. CAG:269
+unclassified Lachnospiraceae
+unclassified Fusobacterium
+Firmicutes bacterium CAG:212 / [Clostridium] sp. 2789STDY5834871
+
+[Clostridium] sp. CAG:632
+
+unclassified Fournierella
+
+Eggerthella sp. CAG:298
+
+
+Methanobrevibacter smithii 1
+
+
+
+[Clostridium] sp. CAG:343
+unclassified Fusobacterium
+unclassified Ruminococcaceae
+unclassified Clostridiales 3
+unclassified Parabacteroides
+unclassified Lachnoclostridium
+
+
+
+unclassified Christensenellaceae-Catabacteriaceae
+
+
+
+Bacteroidales bacterium CIM:MAG 858
+Phascolarctobacterium sp. CAG:266
+Cryptobacterium sp. CAG:338
+Clostridiales bacterium UBA4696
+
+
+unclassified Clostridiales 5
+
+Prevotella sp. CAG:1092
+
+unclassified Prevotella
+
+Weissella cibaria
+Anaerofustis stercorihominis
+Streptococcus infantis 2
+
+
+
+Selenomonas artemidis
+Dorea sp. CAG:105
+
+
+
+
+
+
+unclassified Oscillospiraceae
+
+unclassified Ruminococcus
+unclassified Prevotellaceae
+Muribaculaceae bacterium sp7
+
+unclassified Bacteroides
+Fusobacterium nucleatum subsp. animalis
+
+
+
+
+
+
+
+
+
+
+
+Bacteroidales bacterium H2 / [Prevotella] sp. CAG:251
+unclassified Oscillospiraceae
+
+unclassified Catabacter
+
+
+
+
+unclassified Muribaculaceae
+unclassified Oscillospiraceae
+
+Prevotella buccae
+unclassified Sutterellaceae
+
+Turicimonas muris
+unclassified Ruminococcaceae
+
+unclassified Candidatus Gastranaerophilales
+Intestinibacter bartlettii
+
+
+
+
+
+unclassified Christensenellaceae-Catabacteriaceae
+
+
+
+Erysipelatoclostridium sp2
+
+
+unclassified Ruminococcaceae
+
+Firmicutes bacterium CAG:646
+Citrobacter portucalensis
+Bifidobacterium breve
+Muribaculaceae bacterium sp1
+unclassified Clostridiales 3
+
+[Eubacterium] sp. CAG:161
+
+unclassified Clostridiales 5
+unclassified Ruminococcaceae
+
+Klebsiella michiganensis 1
+unclassified Flavonifractor
+Flavobacteriales bacterium CIM:MAG 32_1
+Alistipes [Bacteroidales] bacterium 55_9
+Alistipes sp. Marseille-P2431
+Enteroscipio rubneri
+Faecalibacterium prausnitzii 6
+
+unclassified Oscillibacter
+unclassified Ruminococcaceae
+Proteobacteria bacterium CAG:495
+unclassified Clostridiales 5
+
+unclassified Clostridiales 3
+[Clostridium] sp. CAG:452
+[Bacteroides] sp. 43_108
+Clostridia bacterium UC5.1-2E3
+
+
+
+
+Holdemanella biformis
+
+Acidaminococcus sp. Marseille-P4266
+unclassified Agathobaculum
+
+Prevotella sp. Marseille-P4119
+
+unclassified Clostridiales 4
+
+
+Muribaculaceae bacterium sp2
+Firmicutes bacterium CAG:103
+[Ruminococcus] sp. 2789STDY5608817 / [Eubacterium] sp. 2789STDY5834872
+
+
+
+
+
+
+
+Succinatimonas sp. UBA2849 & sp. CAG:777
+
+Clostridiales bacterium CIM:MAG 272
+unclassified Bacteroides
+Caecibacter massiliensis == Megasphaera hexanoica
+unclassified Candidatus Gastranaerophilales
+bacterium OL-1
+unclassified Clostridiales 4
+
+unclassified Ruminococcaceae
+Clostridiales Family XIII bacterium CIM:MAG 1057
+
+
+
+unclassified Coriobacteriia
+unclassified Prevotellaceae
+
+Coprococcus sp. CAG:782
+
+unclassified Ruminococcaceae
+unclassified Oscillibacter
+Turicibacter sanguinis 1
+unclassified Opitutae
+unclassified Clostridiales 4
+[Eubacterium] sp. 2789STDY5834909
+
+Sutterella sp. CAG:521
+unclassified Clostridiales 4
+
+Slackia exigua
+
+unclassified Ruminococcaceae
+unclassified Clostridiales 4
+
+Muribaculaceae bacterium sp8
+Prevotella sp. CAG:617
+uncultured Clostridiales bacterium RUG798
+unclassified Clostridiales 3
+unclassified Muribaculaceae
+unclassified Clostridiales 2
+
+[Ruminococcus] sp. CAG:382
+
+Prevotella sp. UBA630
+unclassified Lachnospiraceae
+Clostridiales bacterium UBA1701 / Clostridia bacterium CIM:MAG 26
+
+unclassified Faecalibacterium
+Lactobacillus amylovorus
+[Ruminococcaceae] bacterium CIM:MAG 1028_2
+
+unclassified Lachnoclostridium
+unclassified Parabacteroides
+
+unclassified Rhodospirillales
+Acidaminococcus fermentans
+Clostridium sp. CAG:221
+
+
+
+Faecalitalea cylindroides
+unclassified Clostridiales 4
+
+Megasphaera sp. ASD88 & An286 & AJH120
+unclassified Pseudoflavonifractor
+unclassified Barnesiellaceae
+unclassified Clostridiales 1
+
+unclassified Clostridiales 5
+unclassified Lachnoclostridium
+
+
+Dorea sp. Marseille-P4003
+unclassified Clostridiales Family XIII. Incertae Sedis
+
+Ruminococcus sp. CAG:563
+
+Firmicutes bacterium CAG:341
+[Bacteroides] sp. CAG:927
+Rikenella microfusus
+Lactobacillus salivarius
+
+
+
+[Clostridium] citroniae
+
+
+
+
+Selenomonas bovis
+Aggregatibacter segnis
+
+unclassified Ruminococcaceae
+
+
+unclassified Ruminococcus
+unclassified Rhodospirillales
+[Selenomonadales] bacterium CIM:MAG 469
+[Clostridium] sp. CAG:1024
+unclassified Bacteroides
+Blautia obeum 2
+
+
+
+
+
+
+unclassified Clostridiales 5
+
+
+unclassified Sutterellaceae
+Clostridiales bacterium CIM:MAG 491
+
+Prevotella sp. CAG:755
+unclassified Clostridiales 4
+unclassified Clostridiales 1
+
+[Ruminococcaceae] bacterium CIM:MAG 1170_1
+
+unclassified Clostridiales 1
+
+Clostridiales bacterium CIM:MAG 442
+Roseburia sp. CAG:471
+
+Firmicutes bacterium CAG:555
+Monoglobus pectinilyticus
+Bacteroides sp. An322 & UBA1451
+unclassified Clostridiales Family XIII. Incertae Sedis
+
+Prevotella sp. UBA2874
+Prevotella timonensis
+unclassified Lachnospiraceae
+unclassified Sutterella
+Streptococcus parasanguinis
+
+
+
+
+
+unclassified Bacteroidales
+Acidaminococcus sp. CAG:542
+Lachnospiraceae bacterium UBA7096
+unclassified Prevotella
+
+unclassified Oscillospiraceae
+
+[Firmicutes] bacterium CAG:460
+
+unclassified Sutterella
+unclassified Lachnoclostridium
+unclassified Christensenellaceae-Catabacteriaceae
+Ruminococcus sp. CAG:624 & UBA6407 & UBA4697
+unclassified Muribaculaceae
+Citrobacter werkmanii == Citrobacter freundii
+unclassified Clostridiales 5
+unclassified Blautia
+[Clostridium] sp. 28_12 & CAG:356
+unclassified Lachnospiraceae
+unclassified Clostridiales 5
+Clostridium sp. 29_15 & CAG:265
+
+unclassified Clostridiales 5
+
+Ruminococcaceae bacterium UBA1821 / [Clostridium] sp. CAG:678
+Oscillibacter sp. ER4 / Firmicutes bacterium CAG:129_59_24
+
+unclassified Alistipes
+unclassified Prevotellaceae
+
+unclassified Oscillibacter
+
+
+
+unclassified Tyzzerella
+unclassified Sutterellaceae
+
+Agathobaculum butyriciproducens
+
+
+unclassified Lachnoclostridium
+Clostridiales bacterium UBA644
+Clostridiales bacterium 1_7_47FAA & VE202-28
+
+unclassified Clostridiales Family XIII. Incertae Sedis
+
+
+Prevotella sp. CAG:1058
+unclassified Candidatus Gastranaerophilales
+unclassified Clostridiales Family XIII. Incertae Sedis
+
+
+Clostridiales bacterium RUG303 & RUG439 & RUG453 / Firmicutes bacterium CAG:129
+
+
+unclassified Faecalibacterium
+
+[Clostridium] sp. CAG:417
+unclassified Lachnoclostridium
+
+
+
+
+unclassified Christensenellaceae-Catabacteriaceae
+
+
+
+Candidatus Gastranaerophilales bacterium MH_37 & HUM_20 / Melainabacteria sp. 35_41
+unclassified Clostridiales 4
+unclassified Ruminococcaceae
+Collinsella tanakaei
+unclassified Muribaculaceae
+unclassified Clostridiales 1
+
+unclassified Rhodospirillaceae
+Prevotella sp. CAG:1185
+unclassified Clostridiales 4
+unclassified Oscillibacter
+Clostridium perfringens
+
+unclassified Clostridiales Family XIII. Incertae Sedis
+Slackia isoflavoniconvertens
+
+unclassified Rhodospirillaceae
+unclassified Clostridiales 4
+unclassified Ruminococcus
+unclassified Clostridiales 1
+
+unclassified Bacteroides
+Eggerthella sp. 51_9 & CAG:209
+
+Sutterella parvirubra
+Bacteroidales bacterium H3
+unclassified Clostridiales 4
+unclassified Clostridiales 1
+
+unclassified Roseburia
+unclassified Clostridiales 1
+unclassified Clostridiales 4
+
+[Clostridium] sp. CAG:288
+
+unclassified Clostridiales 4
+unclassified Clostridiales 4
+[Staphylococcus] sp. CAG:324
+
+
+
+
+unclassified Lachnospiraceae
+unclassified Muribaculaceae
+Lachnoclostridium sp. An138
+
+unclassified Alistipes
+unclassified Lachnospiraceae
+unclassified Faecalibacterium
+
+[Clostridium] sp. CAG:302
+Candidatus Gastranaerophilales bacterium HUM_2 / Candidatus Melainabacteria bacterium MEL.A1
+
+unclassified Lachnoclostridium
+
+
+
+
+
+
+[Firmicutes] bacterium CAG:313
+
+unclassified Oscillospiraceae
+[Ruminococcus] sp. CAG:724
+
+[Clostridium] sp. CAG:967
+Firmicutes bacterium CAG:791
+
+unclassified_Anaeroplasmataceae
+unclassified Odoribacteraceae
+Massiliomicrobiota sp. An80 & An105 & An134 & An142
+Lachnoclostridium sp. UBA2905
+unclassified Rhodospirillaceae
+Faecalicoccus pleomorphus
+Streptococcus pasteurianus
+Streptococcus thermophilus
+
+
+
+
+
+
+
+unclassified Dialister
+Clostridiales bacterium 41_21_two_genomes
+unclassified Muribaculaceae
+unclassified_Erysipelotrichaceae
+
+Candidatus Gastranaerophilales sp2
+
+[Clostridium] sp. CAG:964
+unclassified Atopobiaceae
+unclassified Oscillibacter
+
+unclassified Clostridiales 1
+Weissella confusa
+
+Campylobacter concisus 2
+
+[Clostridium] sp. CAG:440
+
+
+unclassified Cloacibacillus
+Flavobacteriales bacterium UBA1820
+
+
+unclassified Lachnospiraceae
+unclassified Alistipes
+unclassified Clostridiales 5
+
+
+unclassified Clostridiales Family XIII. Incertae Sedis
+
+
+
+Absiella dolichum
+Granulicatella adiacens
+
+
+[Clostridium] sp. CAG:349
+
+unclassified Oscillospiraceae
+[Clostridium] sp. 28_17 & CAG:470
+unclassified Muribaculaceae
+[Clostridium] sp. CAG:433
+
+unclassified Christensenellaceae-Catabacteriaceae
+unclassified Intestinibacter
+
+
+unclassified Oscillibacter
+
+
+
+
+
+unclassified Muribaculaceae
+unclassified Lachnospiraceae
+Enterobacter kobei
+Lactobacillus agilis
+unclassified Clostridiales 5
+
+Lachnospiraceae bacterium 2_1_46FAA
+unclassified Acidaminococcaceae
+
+unclassified Barnesiellaceae
+unclassified Clostridiales 1
+[Clostridium] sp. CAG:567
+Olsenella sp. Marseille-P2300
+unclassified Oscillibacter
+
+unclassified Bacteroides
+unclassified Oscillospiraceae
+
+Massiliomicrobiota timonensis
+
+Bifidobacterium gallinarum == saeculare
+unclassified Faecalibacterium
+
+
+unclassified Muribaculaceae
+Haemophilus parainfluenzae
+
+
+
+Candidatus Gastranaerophilus phascolarctosicola
+[Clostridium] spiroforme
+
+Veillonella atypica
+
+
+unclassified Roseburia
+
+
+
+
+[Firmicutes] bacterium CAG:449
+
+unclassified Lachnospiraceae
+unclassified Muribaculaceae
+unclassified Phascolarctobacterium
+Leuconostoc mesenteroides
+
+
+
+unclassified Ruminococcaceae
+unclassified Lachnospiraceae
+Faecalibacterium prausnitzii 2
+
+unclassified Prevotella
+Acetobacter sp. CAG:977
+Candidatus Methanomassiliicoccus intestinalis
+Candidatus Gastranaerophilales sp3
+
+butyrate-producing bacterium SS3/4 - [Clostridium] sp. CAG:81
+
+unclassified Clostridiales 4
+unclassified Ruminococcaceae
+
+unclassified Blautia
+unclassified Oscillospiraceae
+
+Oscillibacter sp. 57_20
+
+Ruminococcaceae bacterium UBA5891
+Treponema succinifaciens
+
+[Clostridium] sp. 2789STDY5834924
+
+[Clostridium] sp. CAG:465
+unclassified Christensenellaceae-Catabacteriaceae
+
+
+[Clostridium] sp. CAG:768
+Bifidobacterium catenulatum
+
+
+
+unclassified Clostridiales 4
+unclassified Clostridiales 5
+unclassified Succinivibrionaceae
+unclassified Ruminococcaceae
+unclassified Candidatus Gastranaerophilales
+Bifidobacterium animalis
+
+unclassified Clostridiales 5
+
+unclassified Prevotella
+unclassified Sutterella
+unclassified Prevotellaceae
+Ruminococcus sp. UBA1828
+unclassified Ruminococcaceae
+
+Veillonella seminalis
+Methanobrevibacter smithii 2
+Lactobacillus paragasseri
+
+
+
+unclassified Dialister
+unclassified_Erysipelatoclostridium
+unclassified Clostridiales 1
+
+unclassified Clostridiales 1
+unclassified Lachnospiraceae
+
+
+
+
+
+unclassified Clostridiales 5
+
+
+unclassified Oscillospiraceae
+
+unclassified Blautia
+Bacteroides salanitronis
+Peptostreptococcus anaerobius
+Helicobacter winghamensis
+unclassified Sutterellaceae
+[Firmicutes] bacterium CAG:536
+unclassified Clostridiales 3
+unclassified Eggerthella
+unclassified Clostridiales 1
+Coriobacteriia bacterium CIM:MAG 1296_1
+
+unclassified Clostridiales 1
+unclassified Clostridiales 1
+unclassified Coprococcus
+
+Collinsella intestinalis
+[Clostridium] sp. 26_22
+unclassified Prevotella
+
+unclassified_Erysipelotrichaceae
+Sanguibacteroides justesenii == Gabonibacter massiliensis
+
+
+unclassified Alistipes
+Agathobaculum desmolans
+unclassified Gemmiger
+
+unclassified Sutterellaceae
+[Firmicutes] bacterium CAG:345
+
+Fusobacterium sp. clos_1_1
+unclassified Ruminococcaceae
+unclassified Flavonifractor
+unclassified Ruminococcaceae
+
+
+
+unclassified Clostridiales 1
+
+unclassified Clostridiales 2
+unclassified Anaerotruncus
+Campylobacter hominis
+[Clostridium] sp. CAG:571
+unclassified Oscillibacter
+
+unclassified Clostridiales 4
+unclassified Sutterella
+Veillonella magna
+Olsenella provencensis
+Collinsella bouchesdurhonensis
+
+Bacteroides sartorii
+unclassified Prevotellaceae
+unclassified_Erysipelotrichaceae
+Gemella sanguinis
+
+
+
+
+unclassified Clostridiales 1
+unclassified Clostridiales 5
+
+Flavonifractor sp. 2789STDY5834895 & sp. 2789STDY5834937 / [Clostridium] sp. 2789STDY5608878
+
+
+
+
+
+
+
+unclassified Negativicutes 2
+unclassified Christensenellaceae-Catabacteriaceae
+
+
+unclassified Prevotella
+
+unclassified_Holdemanella
+
+unclassified Clostridiales 1
+Streptococcus lutetiensis
+unclassified Sutterellaceae
+[Mycoplasma] sp. CAG:472
+
+Coprococcus catus
+
+
+
+
+
+
+unclassified Bacteroidales
+unclassified Oscillibacter
+
+unclassified Coprococcus
+
+unclassified Lentisphaeria
+unclassified Bacteroidales
+unclassified Methanomassiliicoccaceae
+unclassified Clostridiales 2
+Selenomonadaceae bacterium UBA2829
+unclassified Oribacterium
+
+unclassified Clostridiales 4
+unclassified Prevotella
+unclassified Candidatus Gastranaerophilales
+Collinsella stercoris
+unclassified Barnesiellaceae
+unclassified Clostridiales 4
+
+
+
+unclassified Ruminococcaceae
+[Eubacterium] sp. CAG:841
+unclassified Clostridiales 2
+[Clostridium] sp. CAG:508
+Lactobacillus fermentum
+
+
+
+
+[Coprobacillus] sp. CAG:698
+unclassified_ML615J-28_Tenericutes
+Senegalimassilia anaerobia
+
+
+unclassified Lachnospiraceae
+[Clostridium] sp. CAG:557
+Intestinimonas massiliensis
+
+
+unclassified Ruminococcaceae
+
+unclassified Prevotella
+unclassified Oscillospiraceae
+
+unclassified Agathobaculum
+Candidatus Methanomethylophilus alvus / Methanoculleus sp. CAG:1088
+Oxalobacter formigenes 1
+unclassified Lachnospiraceae
+Clostridia bacterium CIM:MAG 232
+
+
+unclassified Clostridiales 3
+unclassified Candidatus Gastranaerophilales
+uncultured Selenomonadales bacterium RUG048
+unclassified Lentisphaerae
+unclassified Alistipes
+unclassified_RF39_Mollicutes
+Prevotella intermedia
+
+unclassified Clostridiales 5
+unclassified Oscillospiraceae
+unclassified Sutterella
+
+unclassified Clostridiales 6
+
+[Clostridium] sp. CAG:273
+
+Anaeroglobus geminatus
+
+
+
+Mobilibacterium timonense
+unclassified Dialister
+unclassified Clostridiales 2
+Blautia sp. 2789STDY5608796 & sp. 2789STDY5608848
+
+
+
+
+unclassified Ruminococcaceae
+Colibacter massiliensis
+unclassified Blautia
+unclassified_RF39_Mollicutes
+[Mycoplasma] sp. CAG:611
+unclassified Fusobacterium
+Prevotella sp. CAG:1320
+Clostridium tertium
+unclassified_RF39_Mollicutes
+unclassified Lachnoclostridium
+[Clostridium] sp. CAG:451
+
+unclassified Clostridiales 2
+unclassified Gordonibacter
+Bacteroidales bacterium 52_46
+unclassified Clostridiales Family XIII. Incertae Sedis
+[Clostridium] sp. CAG:780
+unclassified Roseburia
+
+unclassified Sutterella
+Peptoniphilus lacrimalis
+Proteus genomosp. 6
+Lactobacillus gallinarum
+unclassified Flavonifractor
+
+
+
+
+unclassified Clostridiales 3
+unclassified Oscillibacter
+
+Peptostreptococcus sp. MV1
+unclassified Veillonellaceae
+unclassified Veillonellaceae
+unclassified_RF39_Mollicutes
+unclassified Clostridiales 1
+[Clostridium] sp. CAG:524
+unclassified Clostridiales 2
+[Butyricicoccus] pullicaecorum
+
+[Coprobacillus] sp. CAG:826
+unclassified Christensenellaceae-Catabacteriaceae
+unclassified Clostridiales 1
+unclassified Clostridiales 1
+unclassified Lentisphaerae
+unclassified Bilophila
+unclassified Lachnospiraceae
+unclassified Clostridiales 6
+unclassified Lentisphaeria
+
+Fusobacterium gonidiaformans
+unclassified Clostridiales 1
+
+unclassified Alistipes
+[Eubacterium] sp. ER2
+unclassified Oscillibacter
+unclassified Clostridiales 1
+
+unclassified Mailhella
+Sutterella sp. UBA1442
+Lactobacillus casei == paracasei
+
+unclassified Christensenellaceae-Catabacteriaceae
+
+unclassified Evtepia
+unclassified Sutterellaceae
+[Clostridium] sp. 27_14
+unclassified Christensenellaceae-Catabacteriaceae
+
+unclassified Candidatus Gastranaerophilales
+unclassified Oscillospiraceae
+unclassified Clostridiales 1
+unclassified Clostridiales 5
+Bifidobacterium thermacidophilum
+unclassified Clostridiales 5
+
+[Firmicutes] bacterium CAG:631
+Firmicutes bacterium CAG:552
+
+unclassified_RF39_Mollicutes
+unclassified Candidatus Melainabacteria
+unclassified Oscillospiraceae
+unclassified Prevotella
+[Bacteroides] sp. CAG:1060
+unclassified Bacteroidales
+unclassified Clostridiales 2
+[Coprobacillus] sp. CAG:605
+[Clostridium] sp. CAG:568
+
+[Mycoplasma] sp. CAG:956
+
+[Firmicutes] bacterium CAG:822
+Allisonella histaminiformans
+
+unclassified Clostridiales 1
+unclassified Sutterella
+unclassified Clostridiales 3
+unclassified Lachnospiraceae
+unclassified Roseburia
+unclassified Lachnospiraceae
+[Firmicutes] bacterium CAG:582
+unclassified Lachnospiraceae
+unclassified Lachnospiraceae
+Eggerthella sp. CAG:368
+
+Prevotella corporis
+Streptococcus anginosus
+
+
+
+
+unclassified Agathobaculum
+
+unclassified Clostridiales 2
+unclassified Muribaculaceae
+unclassified Eggerthella
+unclassified Clostridiales 5
+
+unclassified_RF39_Mollicutes
+[Clostridium] sp. CAG:798
+unclassified Clostridiales 2
+unclassified Clostridiales 5
+unclassified Blautia
+[Clostridium] sp. CAG:628
+
+[Clostridium] sp. CAG:389
+unclassified Gordonibacter
+[Mycoplasma] sp. CAG:877
+unclassified Atopobiaceae
+
+unclassified Oscillibacter
+
+
+
+Bacteroidales bacterium M7
+unclassified Lachnospiraceae
+unclassified Clostridiales 1
+unclassified Clostridiales 1
+
+unclassified Bacteroides
+unclassified Lachnospiraceae
+unclassified Ruminococcaceae
+unclassified Succinivibrionaceae
+unclassified Sutterellaceae
+Dialister sp. UBA1703
+uncultured bacterium RUG841
+Bifidobacterium angulatum
+Solobacterium moorei
+
+
+
+
+
+
+
+unclassified_RF39_Mollicutes
+Porphyromonas somerae
+
+
+unclassified Collinsella
+[Clostridiaceae] bacterium CIM:MAG 987 / [Clostridium] sp. CAG:533
+
+unclassified Clostridiales 2
+unclassified_RF39_Mollicutes
+
+unclassified Ruminococcaceae
+[Faecalibacterium] sp. CAG:1138
+unclassified_ML615J-28_Tenericutes
+unclassified Clostridiales 1
+
+unclassified_Anaeroplasmataceae
+Peptoniphilus harei
+Sphaerochaeta sp. Phil3
+[Clostridium] sp. CAG:609
+unclassified Ruminococcaceae
+unclassified Christensenellaceae-Catabacteriaceae
+
+unclassified Oscillospiraceae
+unclassified Prevotella
+unclassified Clostridiales 2
+unclassified Clostridiales 2
+unclassified Ruminococcaceae
+
+unclassified Muribaculaceae
+unclassified Clostridiales 2
+unclassified_RF39_Mollicutes
+unclassified Clostridiales 2
+Verrucomicrobia bacterium CIM:MAG 792_1
+unclassified Lachnoclostridium
+unclassified Clostridiales 2
+unclassified Clostridiales 2
+[Corallococcus] sp. CAG:1435
+[Firmicutes] bacterium CIM:MAG 721 / [Bacillus] sp. CAG:988
+Ruminococcaceae bacterium CIM:MAG 577
+unclassified Clostridiales 2
+Streptococcus sp. UBA3373 & UBA632
+Atopobium parvulum
+
+
+unclassified Clostridiales 1
+Dialister pneumosintes
+
+
+
+
+
+
+
+unclassified Lachnoclostridium
+unclassified Negativicutes 2
+Lactobacillus crispatus
+unclassified_Anaeroplasmataceae
+[Clostridium] sp. CAG:575
+unclassified Clostridiales 5
+unclassified Clostridiales 1
+unclassified_RF39_Mollicutes
+unclassified Blautia
+unclassified Clostridiales 2
+[Bacilli] bacterium Phil2
+Comamonas kerstersii
+
+unclassified Clostridiales 2
+unclassified Bacteroides
+unclassified Lactobacillus
+unclassified Alistipes
+unclassified Clostridiales 1
+[Clostridium] sp. CAG:762
+unclassified_RF39_Mollicutes
+unclassified Clostridiales 5
+
+[Firmicutes] bacterium CAG:884
+unclassified Porphyromonas
+
+
+unclassified Ruminococcaceae
+Eggerthella sp. CAG:1427
+unclassified Clostridiales 1
+Veillonella rogosae
+
+
+LactobacillusÊvaginalis 2
+[Mycoplasma] sp. CAG:776
+Lactobacillus vaginalis
+
+Lactobacillus parabuchneri
+unclassified_Anaeroplasmataceae
+unclassified_RF39_Mollicutes
+Libanicoccus massiliensis
+
+unclassified Clostridiales 1
+Bacteroides ilei
+unclassified_RF39_Mollicutes
+unclassified_RF39_Mollicutes
+unclassified_RF39_Mollicutes
+unclassified_RF39_Mollicutes
+Parvimonas micra
+
+
+
+
+
+
+
+
+unclassified Clostridiales 2
+unclassified Lachnoclostridium
+
+
+Lactobacillus reuteri
+unclassified Oscillibacter
+unclassified Christensenellaceae-Catabacteriaceae
+unclassified_Holdemanella
+
+Alistipes sp. Zagget8
+Muribaculaceae bacterium sp3
+[Clostridium] sp. CAG:710
+
+Collinsella aerofaciens
+
+
+
+
+
+Parvimonas sp. KA00067
+unclassified Clostridiales 1
+
+unclassified_RF39_Mollicutes
+
+unclassified Clostridiales 5
+unclassified Prevotella
+Drancourtella sp. An12 & An57
+unclassified Oscillibacter
+unclassified_RF39_Mollicutes
+unclassified Clostridiales 2
+unclassified Clostridiales 1
+unclassified Faecalibacterium
+
+unclassified Ruminococcaceae
+
+[Clostridium] sp. CAG:921
+unclassified_Anaeroplasmataceae
+Clostridiales bacterium S5-A14a
+[Clostridium] sp. CAG:793
+unclassified Clostridiales 2
+unclassified Clostridiales 2
+Prevotella sp. UBA641
+
+Dielma fastidiosa
+Lactobacillus johnsonii
+[Acidiphilium] sp. CAG:727
+
+unclassified Ruminococcaceae
+
+Lactobacillus acidophilus
+unclassified Clostridiales 2
+unclassified Lachnospiraceae
+
+unclassified Ruminococcus
+unclassified Muribaculaceae
+unclassified Bacteroidales
+
+unclassified Clostridiales 1
+
+[Clostridium] sp. CAG:594
+Succinatimonas hippei
+unclassified Acidaminococcus
+unclassified Mediterranea
+unclassified Ruminococcaceae
+
+
+Elusimicrobia bacterium UBA1436
+unclassified Elusimicrobia
+
+unclassified Oscillibacter
+unclassified Clostridiales 2
+unclassified Bacteroides
+unclassified_RF39_Mollicutes
+
+[Acidaminococcus] sp. CAG:917
+Lactobacillus delbrueckii
+
+
+unclassified Clostridiales 2
+unclassified_RF39_Mollicutes
+unclassified Clostridiales Family XIII. Incertae Sedis
+
+
+
+
+
+
+
+unclassified Clostridiales 3
+Clostridiales bacterium UBA643
+
+unclassified Veillonella
+unclassified Clostridiales 1
+unclassified Ruminococcaceae
+unclassified_RF39_Mollicutes
+unclassified Clostridiales 5
+Faecalitalea sp. Marseille-P3755
+Christensenella minuta
+unclassified_RF39_Mollicutes
+unclassified Clostridiales 5
+
+
+
+unclassified_RF39_Mollicutes
+unclassified_RF39_Mollicutes
+unclassified Lachnoclostridium
+unclassified_RF39_Mollicutes
+unclassified_RF39_Mollicutes
+Turicibacter sanguinis 2
+
+
+unclassified Christensenellaceae-Catabacteriaceae
+unclassified Flavonifractor
+Methanosphaera stadtmanae
+
+unclassified Oscillibacter
+
+[Acholeplasma] sp. CAG:878
+unclassified Clostridiales 1
+Clostridiales bacterium CIM:MAG 1396
+
+unclassified Clostridiales 1
+unclassified Opitutae
+unclassified Methanomassiliicoccaceae
+
+unclassified Christensenellaceae-Catabacteriaceae
+unclassified Christensenellaceae-Catabacteriaceae
+unclassified_Anaeroplasmataceae
+[Clostridium] sp. CAG:1193
+unclassified Flavonifractor
+
+unclassified Clostridiales 2
+Megasphaera micronuciformis
+
+
+unclassified Mitsuokella
+Peptostreptococcus stomatis
+
+
+
+
+
+
+unclassified_RF39_Mollicutes
+
+Veillonella tobetsuensis
+unclassified_Anaeroplasmataceae
+Hafnia paralvei
+unclassified Christensenellaceae-Catabacteriaceae
+[Clostridium] sp. CAG:1000
+unclassified Clostridiales 1
+Anaeromassilibacillus sp. An172
+Anaerococcus obesiensis == vaginalis
+[Clostridium] sp. Marseille-P2538
+unclassified Clostridiales 2
+Gordonibacter urolithinfaciens
+
+
+
+
+
+
+unclassified Butyricimonas
+Streptococcus infantarius
+
+unclassified Clostridiales 5
+
+unclassified Clostridiales 2
+
+Bacteroides acidifaciens
+unclassified Negativicutes 2
+unclassified
+unclassified Christensenellaceae-Catabacteriaceae
+
+
+unclassified Clostridiales 2
+unclassified Ruminococcaceae
+
+unclassified Prevotella
+Clostridium celatum
+Enterobacter cloacae
+
+unclassified Clostridium
+
+
+unclassified_RF39_Mollicutes
+Ruminococcaceae bacterium UBA6353
+Anaeromassilibacillus sp. An250
+
+
+
+
+unclassified Clostridiales
+unclassified Clostridiales
+unclassified Clostridiales 2
+unclassified Coprobacter
+unclassified Porphyromonas
+
+
+
+Holdemania massiliensis
+unclassified Ruminococcaceae
+unclassified Clostridiales 1
+Megasphaera sp. UBA1696
+unclassified_RF39_Mollicutes
+unclassified_Anaeroplasmataceae
+[Clostridium] sp. CAG:1219
+unclassified_RF39_Mollicutes
+unclassified_RF39_Mollicutes
+unclassified Muribaculaceae
+unclassified Clostridiales 2
+unclassified Clostridiales 2
+unclassified Clostridiales 2
+unclassified Dialister
+unclassified Clostridiales 2
+Collinsella sp. UBA1690
+
+unclassified Oscillibacter
+unclassified Clostridiales 4
+unclassified_RF39_Mollicutes
+Agathobaculum sp. Marseille-P4005
+
+
+Clostridiales bacterium CIM:MAG 1534
+unclassified Lachnoclostridium
+unclassified Bacteroides
+unclassified Blautia
+
+unclassified Ruminococcaceae
+
+unclassified Desulfovibrio
+unclassified Coprococcus
+
+unclassified_Anaeroplasmataceae
+
+unclassified Candidatus Gastranaerophilales
+unclassified Phascolarctobacterium
+unclassified_RF39_Mollicutes
+unclassified Clostridiales 2
+unclassified Ruminococcaceae
+unclassified Clostridiales 2
+unclassified Clostridiales 1
+Catabacter hongkongensis
+unclassified_RF39_Mollicutes
+
+unclassified Clostridiales 6
+unclassified Catabacter
+unclassified Olsenella
+unclassified Lachnospiraceae
+Blautia sp. 2789STDY5834862
+
+
+
+
+
+
+Prevotella bivia
+unclassified Lachnospiraceae
+unclassified Bacteroidales
+unclassified Lachnospiraceae
+unclassified Clostridiales 2
+unclassified Odoribacteraceae
+Lactococcus lactis subsp. cremoris
+
+Prevotella disiens
+unclassified Clostridiales 2
+unclassified_RF39_Mollicutes
+Firmicutes bacterium UBA1702
+unclassified Clostridiales 1
+unclassified_RF39_Mollicutes
+Streptococcus mitis
+
+unclassified Sutterella
+unclassified Clostridiales 2
+unclassified_Holdemanella
+unclassified Ruminococcaceae
+unclassified Ruminococcaceae
+unclassified_RF39_Mollicutes
+unclassified_RF39_Mollicutes
+unclassified_RF39_Mollicutes
+
+unclassified_RF39_Mollicutes
+unclassified Lachnospiraceae
+
+
+unclassified Clostridiales 2
+unclassified Clostridiales 2
+unclassified Clostridiales 1
+Citrobacter koseri
+unclassified Ruminococcaceae
+unclassified_RF39_Mollicutes
+unclassified Clostridiales 2
+unclassified Collinsella
+unclassified Lachnoclostridium
+unclassified Ruminococcaceae
+unclassified Clostridiales 1
+unclassified Opitutae
+Bacteroides faecichinchillae
+unclassified Clostridiales 2
+unclassified Ruminococcaceae
+Ruminococcaceae bacterium D5
+unclassified Clostridiales 2
+unclassified Ruminococcaceae
+unclassified Clostridiales 1
+unclassified_RF39_Mollicutes
+unclassified_RF39_Mollicutes
+unclassified Lachnospiraceae
+unclassified_RF39_Mollicutes
+Streptococcus vestibularis
+
+
+
+
+
+
+
+
+unclassified Clostridiales 2
+unclassified_RF39_Mollicutes
+Porphyromonas endodontalis
+Fenollaria massiliensis
+[Christensenellaceae] bacterium Phil10
+unclassified Clostridiales Family XIII. Incertae Sedis
+Clostridia bacterium CIM:MAG 611
+unclassified Ruminococcaceae
+
+unclassified Clostridiales 5
+unclassified Succinivibrionaceae
+unclassified Bilophila
+unclassified Clostridiales 4
+
+unclassified Clostridiales 5
+unclassified Methanomassiliicoccaceae
+unclassified Clostridiales 5
+
+unclassified Oscillibacter
+
+unclassified Christensenellaceae-Catabacteriaceae
+unclassified Paraeggerthella
+unclassified
+unclassified Bacteroidales
+Bacteroidales bacterium M1
+Haemophilus pittmaniae
+Streptococcus mutans
+
+
+unclassified Lachnospiraceae
+unclassified Clostridium
+unclassified Clostridiales 1
+unclassified Bacteroides
+unclassified Clostridiales 4
+unclassified Clostridiales 6
+unclassified Christensenellaceae-Catabacteriaceae
+unclassified Clostridiales 2
+unclassified Clostridiales 2
+unclassified Bacteroidales
+Enterococcus gallinarum
+[Roseburia] sp. CAG:309
+[Clostridium] sp. 2789STDY5834920
+
+unclassified Lachnospiraceae
+
+
+unclassified Bacteroides
+unclassified Clostridiales 1
+unclassified Phascolarctobacterium
+Ruminococcaceae bacterium UBA1375
+unclassified_RF39_Mollicutes
+unclassified_RF39_Mollicutes
+unclassified Lachnospiraceae
+
+unclassified Clostridiales 1
+unclassified Lachnospiraceae
+unclassified Clostridiales 1
+unclassified Clostridiales 4
+unclassified_RF39_Mollicutes
+unclassified Clostridiales 4
+unclassified Clostridiales 1
+unclassified Clostridiales 3
+unclassified Ruminococcaceae
+unclassified Clostridiales 4
+unclassified
+Enterobacter asburiae
+unclassified_ML615J-28_Tenericutes
+Rubneribacter badeniensis
+unclassified Clostridiales 2
+unclassified Lachnoclostridium
+
+
+unclassified Clostridiales 2
+unclassified_RF39_Mollicutes
+unclassified_RF39_Mollicutes
+unclassified Flavonifractor
+unclassified Gemmiger
+unclassified Clostridiales 2
+unclassified Alistipes
+Desulfovibrio sp. Dsv1
+unclassified Christensenellaceae-Catabacteriaceae
+[Clostridium] hylemonae
+unclassified Succinatimonas
+unclassified Lachnospiraceae
+Olsenella sp. An188
+unclassified Lachnoclostridium
+unclassified
+Olsenella sp. GAM18
+
+unclassified Clostridiales 1
+unclassified Lachnospiraceae
+
+unclassified Clostridiales 2
+unclassified_RF39_Mollicutes
+Clostridiales bacterium CIM:MAG 912
+
+unclassified Christensenellaceae-Catabacteriaceae
+unclassified_RF39_Mollicutes
+unclassified Lachnospiraceae
+
+unclassified Clostridiales 1
+Streptococcus oralis
+
+
+
+unclassified Clostridiales 5
+
+Muribaculaceae bacterium sp4
+Lactobacillus farciminis
+unclassified Fournierella
+unclassified Oscillibacter
+unclassified Clostridiales 5
+
+unclassified Clostridiales 5
+Lachnospiraceae bacterium UBA2886 & RUG297
+unclassified Blautia
+
+Kluyvera georgiana
+unclassified_RF39_Mollicutes
+Holdemania filiformis
+
+unclassified Eggerthellaceae
+
+unclassified Clostridiales Family XIII. Incertae Sedis
+
+
+
+Porphyromonas sp. HMSC065F10
+unclassified Muribaculaceae
+unclassified Clostridiales 1
+unclassified Lachnoclostridium
+unclassified Christensenellaceae-Catabacteriaceae
+
+unclassified_RF39_Mollicutes
+unclassified Clostridiales 2
+Clostridium disporicum
+unclassified Prevotella
+
+Porphyromonas asaccharolytica
+
+
+[Bacteroides] coagulans
+unclassified Clostridiales Family XIII. Incertae Sedis
+unclassified Clostridiales 2
+unclassified Clostridiales 1
+unclassified Ruminococcus
+
+unclassified Eggerthellaceae
+unclassified Clostridiales 5
+Bacteroides oleiciplenus
+unclassified Ruminococcaceae
+
+Peptococcaceae bacterium UBA3330
+unclassified Flavonifractor
+unclassified Butyricimonas
+unclassified_RF39_Mollicutes
+Pseudoflavonifractor capillosus
+unclassified Lachnospiraceae
+unclassified Lachnospiraceae
+unclassified Oscillibacter
+unclassified
+Holdemania sp. Marseille-P2844
+
+unclassified Clostridiales 1
+unclassified Clostridiales 1
+unclassified_RF39_Mollicutes
+unclassified Clostridiales 2
+unclassified Libanicoccus
+unclassified_RF39_Mollicutes
+unclassified Clostridiales 1
+
+Streptococcus sp. I-P16
+
+
+unclassified Porphyromonas
+
+
+unclassified Clostridium
+Atopobium parvulum 2
+
+
+unclassified Lachnospiraceae
+unclassified Clostridiales
+Olsenella sp. KH3B4
+unclassified Olsenella
+[Clostridium] sp. 2789STDY5608831
+
+
+unclassified Clostridiales 5
+unclassified
+unclassified Clostridiales
+unclassified Clostridiales 2
+unclassified Selenomonadaceae
+
+unclassified Roseburia
+unclassified Clostridiales 1
+unclassified Lachnospiraceae
+Alistipes sp. An54 & An116
+unclassified Clostridiales 2
+[Clostridium] sp. 2789STDY5608793
+
+unclassified
+unclassified Blautia
+unclassified_ML615J-28_Tenericutes
+unclassified Oscillospiraceae
+
+unclassified Gordonibacter
+Lachnoclostridium sp. An118
+
+unclassified Clostridiales 3
+Oxalobacter formigenes 2
+unclassified Bacteroidales
+unclassified Clostridiales 1
+Slackia piriformis
+unclassified
+unclassified Prevotella
+unclassified Ruminococcaceae
+unclassified Oscillospiraceae
+Desulfovibrio sp. An276
+unclassified Bacteroidales [Alistipes] sp. CAG:831
+unclassified Lachnospiraceae
+
+
+
+
+
+
+
+[Ruminococcus] sp. JC304
+
+
+
+
+
+unclassified Ruminococcaceae
+unclassified Alphaproteobacteria
+unclassified_Erysipelatoclostridium
+Peptoniphilus senegalensis
+Clostridiales bacterium UBA1390
+
+unclassified
+unclassified Intestinimonas
+unclassified
+unclassified Christensenellaceae-Catabacteriaceae
+
+Desulfovibrio desulfuricans
+unclassified Lachnospiraceae
+unclassified Clostridiales 2
+unclassified
+unclassified Lachnospiraceae
+unclassified
+unclassified_Acholeplasmatales
+unclassified Lachnospiraceae
+
+unclassified Clostridiales 1
+unclassified Ruminococcaceae
+
+unclassified Oscillospiraceae
+[Mollicutes] bacterium Phil14
+unclassified Christensenellaceae-Catabacteriaceae
+unclassified Ruminococcaceae
+unclassified Clostridiales 5
+unclassified_Anaeroplasmataceae
+Neglecta timonensis
+unclassified Ruminococcaceae
+unclassified Lachnoclostridium
+unclassified Clostridiales 5
+unclassified Clostridiales 2
+unclassified Clostridiales 1
+
+unclassified Clostridium
+unclassified
+unclassified Niameybacter
+unclassified Clostridiales
+Clostridioides difficile
+unclassified_Anaeroplasmataceae
+
+Faecalicatena contorta
+
+
+Clostridiales bacterium UBA4698
+unclassified
+unclassified Lachnospiraceae
+unclassified Clostridiales Family XIII. Incertae Sedis
+unclassified Opitutae
+unclassified Phascolarctobacterium
+unclassified Muribaculaceae
+unclassified Negativicutes 2
+unclassified Clostridiales 2
+Desulfovibrio desulfuricans 2
+Enterococcus avium
+Lachnoclostridium sp. An14
+unclassified Clostridiales 5
+
+unclassified_Erysipelatoclostridium
+Olsenella mediterranea
+Streptococcus australis
+
+
+unclassified Lawsonibacter
+Enterococcus asini
+unclassified Ruminococcaceae
+unclassified Sutterella
+unclassified Clostridiales 1
+
+unclassified Lachnospiraceae
+unclassified Clostridiales 1
+unclassified Clostridiales 1
+unclassified Roseburia
+unclassified Clostridiales 3
+unclassified Lachnospiraceae
+Cloacibacillus evryensis
+unclassified Gemmiger
+
+unclassified Roseburia
+unclassified Clostridiales 2
+unclassified Blautia
+unclassified Candidatus Gastranaerophilales
+unclassified Blautia
+unclassified Ruminococcaceae
+unclassified Clostridiales
+Phocea massiliensis
+
+
+unclassified Blautia
+unclassified Clostridiales 2
+unclassified Alistipes
+unclassified Sutterellaceae
+unclassified Flavonifractor
+unclassified
+unclassified Prevotella
+unclassified_RF39_Mollicutes
+unclassified Clostridiales 1
+Bacteroides stercorirosoris
+unclassified
+unclassified Clostridiales 2
+unclassified Lachnospiraceae
+unclassified_RF39_Mollicutes
+unclassified_RF39_Mollicutes
+unclassified Christensenellaceae-Catabacteriaceae
+unclassified
+Candidatus Melainabacteria bacterium js4906-23-3_S14_33_15
+
+unclassified
+Faecalicatena fissicatena
+Streptococcus gordonii
+
+
+unclassified Clostridiales 1
+unclassified
+unclassified Bacteroides
+Raoultella ornithinolytica
+unclassified
+unclassified Clostridiales 4
+unclassified Bacteroidales
+unclassified Clostridiales 1
+unclassified Clostridiales 5
+
+Enterobacter ludwigii
+unclassified
+unclassified
+unclassified
+unclassified Achromobacter
+unclassified
+Clostridium neonatale
+Lactobacillus oris
+unclassified Clostridiales 1
+unclassified Clostridiales 3
+Anaerofilum sp. An201
+unclassified Lachnospiraceae
+unclassified Clostridium
+Blastocystis sp. subtype 9
+[Clostridium] jeddahense
+Prevotella melaninogenica
+
+Fusobacterium periodonticum
+
+Prevotella jejuni
+Haemophilus quentini
+
+
+unclassified Leptotrichia
+Prevotella salivae
+Lachnoanaerobaculum saburreum 2
+Alloprevotella tannerae
+Fusobacterium nucleatum subsp. polymorphum
+
+
+
+
+
+Prevotella denticola
+Haemophilus paraphrohaemolyticus
+unclassified Veillonella
+Haemophilus parahaemolyticus
+
+Haemophilus sputorum
+Lactobacillus gasseri
+Prevotella veroralis
+
+Streptococcus salivarius 2
+unclassified Parabacteroides
+Enterobacter mori
+Citrobacter braakii
+unclassified Clostridiales 3
+unclassified Saccharopolyspora
+unclassified Lachnospiraceae
+Clostridium sp. CL-2
+unclassified Bacteroides
+unclassified Selenomonas
+
+unclassified Sutterella
+unclassified Prevotella
+unclassified Barnesiellaceae
+
+unclassified Bacteroidales
+unclassified Prevotellaceae
+Opitutae bacterium UBA4654
+
+unclassified Muribaculaceae
+unclassified Lachnospiraceae
+unclassified Ruminococcus
+unclassified Prevotellaceae
+
+unclassified Candidatus Gastranaerophilales
+
+unclassified Muribaculaceae
+unclassified Alistipes
+unclassified Fusobacterium
+unclassified Muribaculaceae
+unclassified Clostridiales Family XIII. Incertae Sedis
+unclassified Alistipes
+unclassified Bacteroides
+unclassified Bacteroides
+unclassified Phascolarctobacterium
+unclassified Ruminococcaceae
+unclassified Faecalibacterium
+
+unclassified Clostridiales 1
+unclassified Desulfovibrio
+Candidatus Melainabacteria bacterium js4906-25-3_S22_33_82
+unclassified Ruminococcaceae
+unclassified Blautia
+unclassified_RF39_Mollicutes
+unclassified Elusimicrobia
+
+unclassified Ruminococcaceae
+unclassified Clostridiales 2
+unclassified_Anaeroplasmataceae
+unclassified_Erysipelotrichaceae
+unclassified Clostridiales 2
+unclassified Alistipes
+unclassified_RF39_Mollicutes
+unclassified Fusobacterium
+unclassified
+[Escherichia coli] CIM:MAG 560
+unclassified Lachnospiraceae
+unclassified Lachnospiraceae
+unclassified Clostridium
+unclassified_Anaeroplasmataceae
+unclassified_RF39_Mollicutes
+unclassified_Holdemanella
+unclassified Odoribacteraceae
+unclassified Clostridiales 3
+unclassified Clostridiales 2
+unclassified Lachnospiraceae
+unclassified Christensenellaceae-Catabacteriaceae
+unclassified Betaproteobacteria
+unclassified Clostridiales 5
+unclassified Barnesiellaceae
+unclassified Bacteroides
+unclassified Phascolarctobacterium
+unclassified
+unclassified Megamonas
+Aeromonas caviae
+unclassified
+unclassified Prevotella
+
+Atopobiaceae sp1
+unclassified Sutterella
+unclassified Candidatus Gastranaerophilales
+unclassified
+unclassified_Anaeroplasmataceae
+unclassified Blautia
+unclassified
+
+
+unclassified Clostridiales
+unclassified Clostridiales
+unclassified Muribaculaceae
+unclassified
+unclassified Clostridiales 2
+
+unclassified
+unclassified Clostridiales 3
+unclassified_Anaeroplasmataceae
+Eggerthella sinensis
+unclassified Negativibacillus
+unclassified Clostridiales 1
+unclassified Bacteroides
+unclassified Clostridiales 4
+unclassified Anaerostipes
+unclassified Bacteroides
+unclassified Clostridioides
+
+unclassified
+unclassified
+unclassified Roseburia
+
+unclassified Sutterella
+unclassified
+unclassified_RF39_Mollicutes
+unclassified
+unclassified Oscillospiraceae
+
+unclassified Peptoniphilaceae
+unclassified
+unclassified_RF39_Mollicutes
+unclassified
+Firmicutes bacterium CIM:MAG 1237
+unclassified Clostridiales 1
+unclassified
+unclassified_ML615J-28_Tenericutes
+unclassified
+unclassified Lachnospiraceae
+unclassified_ML615J-28_Tenericutes
+unclassified Lachnospiraceae
+unclassified Clostridiales 2
+unclassified
+unclassified
+unclassified
+unclassified
+unclassified
+unclassified Clostridiales
+unclassified Lachnospiraceae
+unclassified
+unclassified
+[Clostridium] hiranonis
+unclassified_Erysipelotrichaceae
+unclassified
+unclassified
+unclassified Clostridiales Family XIII. Incertae Sedis
+unclassified Lactobacillus
+Faecalicatena orotica
+
+unclassified Lachnoclostridium
+unclassified
+unclassified Sutterellaceae
+unclassified Sutterellaceae
+Lawsonibacter asaccharolyticus
+
+unclassified Clostridiales 2
+unclassified Clostridiales 2
+unclassified
+unclassified
+unclassified Flavonifractor
+unclassified Lachnospiraceae
+unclassified Clostridiales
+unclassified Bacteroidales
+Lachnospiraceae bacterium UBA3273
+unclassified Proteobacteria
+Prevotella sp. UBA7263 & UBA7283 & RUG423 & RUG136 & RUG144
+unclassified Bacteroides
+unclassified Prevotella
+unclassified Muribaculaceae
+unclassified Ruminococcus
+unclassified Akkermansiaceae
+unclassified Muribaculaceae
+unclassified Muribaculaceae
+unclassified Bacteroidales
+unclassified Tissierellia 2
+unclassified Lachnospiraceae
+unclassified Bacteroides
+unclassified Clostridiales 5
+unclassified Prevotella
+unclassified_RF39_Mollicutes
+unclassified Candidatus Gastranaerophilales
+unclassified Ruminococcaceae
+unclassified Clostridiales 1
+unclassified_ML615J-28_Tenericutes
+unclassified Phascolarctobacterium
+unclassified Clostridiales 2
+unclassified_ML615J-28_Tenericutes
+unclassified Candidatus Gastranaerophilales
+unclassified Elusimicrobia
+Lachnospiraceae bacterium UBA4631
+unclassified Ruminococcus
+unclassified Ruminococcaceae
+unclassified Ruminococcaceae
+unclassified_Anaeroplasmataceae
+unclassified Bacteroidales
+unclassified_Acholeplasmatales
+unclassified Candidatus Gastranaerophilales
+unclassified Ruminococcaceae
+
+unclassified Phascolarctobacterium
+unclassified_RF39_Mollicutes
+unclassified Clostridiales 2
+unclassified_RF39_Mollicutes
+unclassified Clostridiales 2
+Ruminococcaceae bacterium UBA1691
+unclassified Clostridiales 5
+unclassified Clostridiales 2
+unclassified Rhodospirillales
+unclassified Rhodospirillales
+unclassified Clostridiales 2
+unclassified Prevotellaceae
+unclassified Clostridiales 1
+unclassified_RF39_Mollicutes
+unclassified Clostridiales Family XIII. Incertae Sedis
+unclassified Lentisphaeria
+unclassified Ruminococcaceae
+unclassified
+unclassified Muribaculaceae
+unclassified Veillonellaceae
+unclassified
+unclassified Clostridiales 2
+unclassified Megasphaera
+unclassified Lachnoclostridium
+unclassified Oscillospiraceae
+unclassified Clostridiales 1
+unclassified Clostridiales 2
+unclassified
+unclassified Lachnospiraceae
+
+unclassified Prevotella
+unclassified Mailhella
+unclassified_RF39_Mollicutes
+unclassified Bacteroidales
+unclassified
+unclassified Sutterella
+unclassified Clostridiales 2
+unclassified
+unclassified Alistipes
+Ruminococcus sp. UBA7158 & UBA7191 & UBA7198 & UBA3270
+unclassified Olsenella
+unclassified Flavonifractor
+unclassified
+unclassified_RF39_Mollicutes
+unclassified Clostridiales 1
+unclassified Desulfovibrio
+unclassified
+unclassified Lachnospiraceae
+unclassified Roseburia
+unclassified_RF39_Mollicutes
+unclassified Clostridiales 3
+unclassified
+unclassified
+unclassified
+unclassified Rhodospirillaceae
+
+unclassified Ruminococcaceae
+unclassified Clostridiales
+unclassified Succinatimonas
+unclassified Bacteroides
+unclassified Ruminococcus
